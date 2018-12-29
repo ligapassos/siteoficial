@@ -1522,30 +1522,22 @@ body {
 .cid-rdEXpUI28J .card-title {
   color: #d85418;
 }
-.cid-rdEZxF8zNm {
-  padding-top: 30px;
-  padding-bottom: 30px;
+.cid-rdF0XBOBGq {
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-rdEZxF8zNm .line {
-  background-color: #d85418;
-  color: #d85418;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
+.cid-rdF0XBOBGq .mbr-section-subtitle {
+  color: #767676;
 }
-.cid-rdEZxF8zNm .section-text {
-  padding: 2rem 0;
+.cid-rdF0XBOBGq DIV {
   color: #d85418;
 }
-.cid-rdEZxF8zNm .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-rdEZxF8zNm .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-rdEZxF8zNm .section-text B {
+.cid-rdF0XBOBGq B {
   color: #1c9d11;
+}
+.cid-rdF1aDsK0R {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #d85418;
 }
